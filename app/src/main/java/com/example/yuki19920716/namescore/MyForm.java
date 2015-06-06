@@ -15,6 +15,7 @@ public class MyForm extends ActionBarActivity {
     public final static String EXTRA_MYNAME = "com.example.yuki19920716.namescore.MYNAME";
 
     // Hello Ryo!!!
+    // Hello Yuki!!! YYYeaaaahhhhhhhhhhhhhhhhhhhhhh!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
